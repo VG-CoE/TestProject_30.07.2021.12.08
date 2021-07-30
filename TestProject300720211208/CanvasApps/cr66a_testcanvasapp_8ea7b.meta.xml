@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cr66a_testcanvasapp_8ea7b</Name>
+  <AppVersion>2021-07-30T10:16:40Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.21073.16.0</CreatedByClientVersion>
+  <MinClientVersion>3.21073.16.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"e49b719d-d091-469f-b2d5-325fa83e724b","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.21073.16","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>TestCanvasApp</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"a9d3ea08-d9af-4ef1-9943-ddaf647a9df6":{"id":"/providers/microsoft.powerapps/apis/shared_powerappsforappmakers","displayName":"Power Apps for Makers","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1480/1.0.1480.2454/powerappsforappmakers/icon.png","dataSources":["PowerAppsforMakers"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/cr66a_testcanvasapp_8ea7b_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cr66a_testcanvasapp_8ea7b_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
